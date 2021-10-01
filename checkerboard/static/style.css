@@ -1,0 +1,28 @@
+h1 {
+    background-color: aqua;
+    width: 350px;
+    height: 50px;
+    text-align: center;
+    padding-top: 12px;
+    margin: auto;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    margin: auto;
+}
+
+.box2 {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+}
+
+#cont {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
