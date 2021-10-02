@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    margin: auto;
+    margin-bottom: 25px;
+    background-color: aqua;
+    width: 500px;
+    height: 55px;
+    padding-top: 20px;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+}
+
+#row {
+    display: flex;
+    justify-content: center;
+}
+
+#col {
+    display: flex;
+    justify-content: center;
+}
